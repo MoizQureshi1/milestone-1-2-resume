@@ -67,13 +67,3 @@ button{
 button:hover{
     background-color: var(--second-bg-color);
 }
-.profilePicture{
-    display: block;
-    margin: 0 auto;
-    border:  2px solid var(--main-color);
-    box-shadow: 0 4px 8px rgba(11, 7, 211, 0.5);
-    border-radius: 500%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-}
